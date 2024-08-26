@@ -1,8 +1,6 @@
 # ECE2112PA1
 My Programming Assignment on ECE2112 by using python
 
-# ECE2112-PA1
-My Programming Assignment on ECE2112 by using python
 This is the first Programming Assignment for ECE2112. Let's Begin
 
 Name: Supnet Joshua P.
